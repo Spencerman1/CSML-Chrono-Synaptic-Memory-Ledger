@@ -1,3 +1,7 @@
+CSML™ is a proprietary internal system design and governance model. References to enforcement, logging, or jurisdiction describe internal IP governance and evidentiary intent, not an assertion of public regulatory authority.
+
+This file is a notice of ownership and governance. It does not grant any license, rights, or permissions of any kind.
+
 # CSML™ Sovereign License Agreement
 
 **Chrono-Synaptic Memory Ledger (CSML™)**  
