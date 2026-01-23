@@ -2,7 +2,7 @@ CSML™ is a proprietary internal system design and governance model. References
 
 This file is a notice of ownership and governance. It does not grant any license, rights, or permissions of any kind.
 
-# CSML™ Sovereign License Agreement
+# CSML™ Sovereign Governance Agreement
 
 **Chrono-Synaptic Memory Ledger (CSML™)**  
 © 2025 Spencer Southern | Southern Star Pro. Studios L.L.C.
