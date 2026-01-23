@@ -1,3 +1,5 @@
+“File previously named LICENSE.md has been renamed to reflect its true function as a governance and sovereign IP notice, not a software license. No rights were granted at any time.”
+
 CSML™ is a proprietary internal system design and governance model. References to enforcement, logging, or jurisdiction describe internal IP governance and evidentiary intent, not an assertion of public regulatory authority.
 
 This file is a notice of ownership and governance. It does not grant any license, rights, or permissions of any kind.
