@@ -10,6 +10,30 @@ This repository uses the SSPS continuity framework. Older vaults may contain ear
 
 No confidential algorithms, source code, system implementations, or operational logic are disclosed in this repository.
 
+RESEARCH & CLARIFICATION NOTICE
+
+This repository is maintained as a research, documentation, and archival reference related to the public emergence, comparison, and analysis of technologies that appear to mirror, overlap with, or parallel previously disclosed concepts associated with the Mint-to Logic™ framework.
+
+This repository does not grant any license, permission, or right of use to any intellectual property referenced herein. It does not publish deployable code, implementation details, or governing logic.
+
+All materials are presented for:
+
+Historical documentation
+
+Research comparison
+
+Public record preservation
+
+Journalistic and analytical review
+
+Interpretation of the contents of this repository as permission, endorsement, authorization, or waiver of rights is expressly disallowed.
+
+Any party seeking clarification, verification, licensing, or formal discussion regarding the intellectual property referenced herein must contact the rights holder directly.
+
+This repository exists to preserve context, timing, and observable patterns for research purposes only.
+
+© Southern Star Pro Studios L.L.C. All rights reserved.
+
 The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
 
 By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
